@@ -1,6 +1,6 @@
 {
-  "name": "apidoc-swagger",
-  "version": "0.2.2",
+  "name": "@nlevo/apidoc-swagger",
+  "version": "0.4.0",
   "description": "Convert api doc json to swagger json",
   "author": "Bahman Fakhr Sabahi",
   "license": {
